@@ -1,5 +1,9 @@
 Requirement:
-Mysql
+-Mysql
+-library for application:
+1. tkinter
+2. pymysql
+3. PIL
 
 -open .py files and change database details according to yours.
 like mypass="your pass"
